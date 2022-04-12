@@ -1,16 +1,13 @@
-### Hi there 👋
+# Says Hi! 👋
+<p>
+  <a href="https://www.linkedin.com/in/tuahta-ramadhani-335994203/" target="_blank">
+    <img src="https://img.shields.io/badge/Tuahta_Ramadhani-30302f?style=social&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/tara_id97.exe" target="_blank">
+    <img src="https://img.shields.io/badge/@tara__id97.exe-30302f?style=social&logo=instagram" />
+  </a>
+</p>
 
-<!--
-**taraid97exe/taraid97exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Taraid97exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=taraid97exe&theme=gotham&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=taraid97exe&theme=gotham)
